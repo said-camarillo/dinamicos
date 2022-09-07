@@ -1,0 +1,26 @@
+footer .container-footer i {
+  margin-right: 10px;
+  font-size: auto;
+}
+
+footer .container-footer .fa-facebook-f {
+  color: #41579A;
+}
+
+footer .container-footer .fa-envelope {
+  color: #DE4C34;
+}
+
+footer .container-footer .fa-instagram {
+  background: linear-gradient(to top right, #FCDE30, #E9712A, #D2313B, #AE4198, #7540A1, #5443A8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+footer .container-footer .fa-twitch {
+  color: #603FAA;
+}
+
+footer .container-footer .fa-youtube {
+  color: #FF0000;
+}
